@@ -2,7 +2,7 @@
 
 <h2>Glad to see you here!</h2>
 
-- 💻 I’m currently learning about **Full Stack Web Development**
+- 💻 I’m currently learning about **Software Enginnering/Devlopement**
 
 - I’m working on **JavaScript based Full Stack Projects**
 
